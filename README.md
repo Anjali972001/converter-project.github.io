@@ -5,7 +5,7 @@ Website link-- https://anjali972001.github.io/converter-project.github.io/
 
 
 
-
+***  Feet to Inches formula in = ft * 12.000
 
 
 
